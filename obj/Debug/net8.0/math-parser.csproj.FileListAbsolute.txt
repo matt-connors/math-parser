@@ -1,0 +1,14 @@
+/Users/csstudent/Desktop/projects/math-parser/bin/Debug/net8.0/math-parser
+/Users/csstudent/Desktop/projects/math-parser/bin/Debug/net8.0/math-parser.deps.json
+/Users/csstudent/Desktop/projects/math-parser/bin/Debug/net8.0/math-parser.runtimeconfig.json
+/Users/csstudent/Desktop/projects/math-parser/bin/Debug/net8.0/math-parser.dll
+/Users/csstudent/Desktop/projects/math-parser/bin/Debug/net8.0/math-parser.pdb
+/Users/csstudent/Desktop/projects/math-parser/obj/Debug/net8.0/math-parser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/csstudent/Desktop/projects/math-parser/obj/Debug/net8.0/math-parser.AssemblyInfoInputs.cache
+/Users/csstudent/Desktop/projects/math-parser/obj/Debug/net8.0/math-parser.AssemblyInfo.cs
+/Users/csstudent/Desktop/projects/math-parser/obj/Debug/net8.0/math-parser.csproj.CoreCompileInputs.cache
+/Users/csstudent/Desktop/projects/math-parser/obj/Debug/net8.0/math-parser.dll
+/Users/csstudent/Desktop/projects/math-parser/obj/Debug/net8.0/refint/math-parser.dll
+/Users/csstudent/Desktop/projects/math-parser/obj/Debug/net8.0/math-parser.pdb
+/Users/csstudent/Desktop/projects/math-parser/obj/Debug/net8.0/math-parser.genruntimeconfig.cache
+/Users/csstudent/Desktop/projects/math-parser/obj/Debug/net8.0/ref/math-parser.dll
