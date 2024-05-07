@@ -12,3 +12,4 @@
 /Users/csstudent/Desktop/projects/math-parser/obj/Debug/net8.0/math-parser.pdb
 /Users/csstudent/Desktop/projects/math-parser/obj/Debug/net8.0/math-parser.genruntimeconfig.cache
 /Users/csstudent/Desktop/projects/math-parser/obj/Debug/net8.0/ref/math-parser.dll
+/Users/csstudent/Desktop/projects/math-parser/obj/Debug/net8.0/math-parser.sourcelink.json
